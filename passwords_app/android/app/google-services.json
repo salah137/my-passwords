@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196135135148",
+    "project_id": "passowrds-generator",
+    "storage_bucket": "passowrds-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196135135148:android:bd5acbfd72cec932963c09",
+        "android_client_info": {
+          "package_name": "com.example.passwords_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196135135148-3m7hpvs0ub5nb0rm1t0uqqkpgkgiald2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passwords_app",
+            "certificate_hash": "8fc2b23b850a0756e5128692a10616ef388e8b7c"
+          }
+        },
+        {
+          "client_id": "196135135148-tud042oov73v1earcjkhunkmlq3nv6ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlcNE3XyM4PgFZMR3pet73Z6L8ngoFqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196135135148-tud042oov73v1earcjkhunkmlq3nv6ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

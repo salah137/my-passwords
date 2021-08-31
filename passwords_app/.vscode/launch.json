@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib/controllers/user_controller.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/controllers/user_controller.dart"
+        }
+    ]
+}
